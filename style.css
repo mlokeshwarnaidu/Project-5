@@ -175,5 +175,15 @@ footer{
   .contact h2{
      font-size: 32px;
   }
+  .card_container{
+  text-align:center;
+  padding: 10px;
+}
+.card_container p{
+font-size:7px;
+
+}
+
+
 }
 
